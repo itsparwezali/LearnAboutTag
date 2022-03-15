@@ -10,7 +10,9 @@ public class TestApplication {
 		SpringApplication.run(TestApplication.class, args);
 		System.out.println("welcome");
 		System.out.println("first branch");
+
 		System.out.println("third branch");
+		System.out.println("second branch");
 	}
 
 }
