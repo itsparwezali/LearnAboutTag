@@ -13,6 +13,8 @@ public class TestApplication {
 
 		System.out.println("third branch");
 		System.out.println("second branch");
+
+		System.out.println("fourth branch");
 	}
 
 }
