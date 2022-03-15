@@ -15,6 +15,7 @@ public class TestApplication {
 		System.out.println("second branch");
 
 		System.out.println("fourth branch");
+		System.out.println("fifth branch");
 	}
 
 }
