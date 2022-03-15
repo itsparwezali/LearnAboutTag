@@ -14,12 +14,9 @@ public class TestApplication {
 		System.out.println("third branch");
 		System.out.println("second branch");
 
-		System.out.println("fourth branch");
-		System.out.println("fifth branch");
-		System.out.println("sixth branch");
-		System.out.println("seven branch");
-		System.out.println("eight branch");
-		System.out.println("new branch v1.3");
+		System.out.println("new Branchv1.0");
+
+
 	}
 
 }
